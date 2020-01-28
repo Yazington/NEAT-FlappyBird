@@ -3,4 +3,4 @@ Flappy Bird + NEAT-Algorithm from Tech With Tim series on youtube. All credits g
 His youtube channel : https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 https://giphy.com/gifs/Ket1jFBxx1iRGicnQK/html5
 
-! [] (Animated GIF-source.gif)
+![](Animated GIF-source.gif)
